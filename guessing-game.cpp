@@ -1,36 +1,6 @@
-/*
-
-*File Name: proj1.cpp
-
-*Academic Integrity Statement: I certify that, while others may have assisted me
-in brainstorming, debugging and validating this program, the program itself is
-my own work. I understand that submitting code which is the work of other
-individuals is a violation of the course Academic Integrity Policy and may
-result in a zero credit for the assignment, or course failure and a report to
-the Academic Dishonesty Board. I also understand that if I knowingly give my
-original work to another individual, it could also result in zero credit for the
-assignment or course failure and a report to the Academic Dishonesty Board. I
-acknowledge the Academic Integrity Procedural Guidelines at
-https://psbehrend.psu.edu/intranet/faculty-resources/academic-integrity/academic-integrity-procedural-guidelinesLinks
-to an external site.
-
-*Assisted by and Assisted line numbers: N/A
-
-*Your Name: Beatriz Ceschin Antunes
-
-*Your PSU user ID: bqc5608
-
-*Course title: CMPSC122 Summer 2024
-
-*Due Time: 11:59 pm, Sunday, May 19, 2024
-
-*Time of Last Modification: 4:00 pm, Friday, May 17, 2024
-
-*Description: Program that plays a guessing game. A random number between 50 and
-150 is generated and either the user or the computer will take guesses each
-time. Hints of whether number is too high or too low are given at every round.
-
-*/
+// Author: Beatriz Antunes
+// May 17th, 2024
+// Purpose: Program that plays a guessing game. A random number between 50 and 150 is generated and either the user or the computer will take guesses each time. Hints of whether number is too high or too low are given at every round.
 
 #include <cstdlib>
 #include <ctime>
